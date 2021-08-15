@@ -8,4 +8,10 @@ szeretes
 kulacs
 where boobs
 error 404 boobs not found
+<<<<<<< HEAD
 where csivcsiv?
+=======
+
+reparetekmogyoro
+
+>>>>>>> 6812958db935c47728bbc67e90e6ee233ed5c466
